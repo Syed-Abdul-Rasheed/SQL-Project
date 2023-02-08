@@ -1,0 +1,18 @@
+SELECT MIN(rental_rate)AS min_rent,
+       MAX(rental_rate)AS max_rent,
+	   AVG(rental_rate)AS average_rent,
+	   COUNT(rental_rate)AS count_rent_values,
+	   MIN(rental_duration)AS min_rental_duration,
+       MAX(rental_duration)AS max_rental_duration,
+	   AVG(rental_duration)AS average_rental_duration,
+	   COUNT(rental_duration)AS count_rent_duration_values,
+	   MIN(film_id)AS min_film_id,
+       MAX(film_id)AS max_film_id,
+	   AVG(film_id)AS average_film_id,
+	   COUNT(film_id)AS count_film_id,
+	   MIN(release_year)AS min_release_year,
+       MAX(release_year)AS max_release_year,
+	   AVG(release_year)AS average_release_year,
+	   COUNT(release_year)AS count_release_year,
+	   COUNT(*)AS count_rows
+FROM film
