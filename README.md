@@ -13,6 +13,7 @@ launch an online video rental service in order to stay competitive.
 
 ## Tools Used in the Project
 #### PostgreSQL Database(for windows)
+#### Tableau Public 2022.3
 
 ## Key Questions and Objectives
 The Rockbuster Stealth Management Board has asked a series of business questions and
