@@ -1,6 +1,6 @@
 # SQL-Project
 ## Achievement 3 Project Brief: RockbusterStealth Data Analysis Project
-###### "C:\Rasheed-D-Drive\CareerFoundry_Data-Analysis\Career-Foundry\Data_Immersion\Achievement-03\RockbusterStealth LLC\Analysis\RockbusterStealthLLC.png"
+###### [image]"C:\Rasheed-D-Drive\CareerFoundry_Data-Analysis\Career-Foundry\Data_Immersion\Achievement-03\RockbusterStealth LLC\Analysis\RockbusterStealthLLC.png"
 
 ## Objective
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the
